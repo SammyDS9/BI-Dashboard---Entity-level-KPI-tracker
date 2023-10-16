@@ -1,6 +1,6 @@
-# BI-Dashboard---Entity-level-KPI-tracker
+# BI-Dashboard--Executive KPI Dashboard for Healthcare Operational Excellence
 
-**Executive KPI Dashboard for Healthcare Operational Excellence**
+**Project Title: Executive KPI Dashboard for Healthcare Operational Excellence**
 **Overview:**
 This executive-level Tableau dashboard provides a comprehensive, real-time view of critical KPIs across various organizational synergies within our healthcare facility, including Operations, Finance, Quality, and Productivity. Designed to drive strategic decision-making, this tool updates automatically with monthly data, visualizes trends, and utilizes an intuitive color-coding system to indicate performance levels, ensuring leadership remains informed and agile in response to evolving dynamics.
 
